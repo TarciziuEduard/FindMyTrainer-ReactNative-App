@@ -10,7 +10,7 @@ import Geolocation from '@react-native-community/geolocation';
 import { saveLocationToCache, getLocationFromCache } from '../Permission/SaveAndGetLocation';
 import NetInfo from '@react-native-community/netinfo';
 
-const apiKey = 'AIzaSyBv7LuSFWfINGD4rm4uKX5QnteSnqCEeRw';
+const apiKey = '#########';
 const majorCities = ['Locația mea', 'București', 'Cluj-Napoca', 'Sfantu Gheorghee', 'Timișoara', 'Iași', 'Craiova', 'Constanța', 'Galați', 'Brașov', 'Ploiești'];
 
 const HomeScreen = ({ navigation }) => {
