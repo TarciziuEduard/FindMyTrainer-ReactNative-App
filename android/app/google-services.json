@@ -14,28 +14,28 @@
       },
       "oauth_client": [
         {
-          "client_id": "99314215918-sm1q1g0ic55cfk24nn67ko7g924jajdi.apps.googleusercontent.com",
+          "client_id": "########.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.findmytrainer",
-            "certificate_hash": "ea27814e102fe9a53291268a99499fd4134b576c"
+            "certificate_hash": "########"
           }
         },
         {
-          "client_id": "99314215918-d2j5n18jjf8n0on90t25324f4defltq9.apps.googleusercontent.com",
+          "client_id": "#######.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCAkFXtjK6rmmhywla6x_O6zPYvN9mwIFM"
+          "current_key": "#########"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "99314215918-d2j5n18jjf8n0on90t25324f4defltq9.apps.googleusercontent.com",
+              "client_id": "##########.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
