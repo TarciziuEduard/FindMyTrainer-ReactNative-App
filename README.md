@@ -15,6 +15,8 @@ FindMyTrainer este o aplicație dedicată conectării eficiente între antrenori
 ![TrainerProfile3](https://github.com/user-attachments/assets/6adbb007-6f41-4ab9-95c9-533d600cc832)
 ![TrainerProfile4](https://github.com/user-attachments/assets/4aa7c5c5-fb8b-4735-a1f1-5e93855fafa1)
 ![TrainerProfile5](https://github.com/user-attachments/assets/3e326df1-bbda-49ba-9eb5-4453b48cfc70)
+![Account](https://github.com/user-attachments/assets/564eb434-d2c4-400f-8b75-2d7c649994f2)
+
 ![TrainerProfile6](https://github.com/user-attachments/assets/ef5aac30-c4ec-40bc-b80e-36758f0ba83e)
 ![Profile](https://github.com/user-attachments/assets/ea20ee80-0590-4a8f-ab4f-882faa7c1382)
 ![Profile2](https://github.com/user-attachments/assets/1ba42b3a-615b-4954-8a49-6cd8c5694afb)
