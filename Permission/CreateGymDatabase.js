@@ -6,7 +6,7 @@ import 'moment-timezone';
 
 moment.locale('ro'); 
 
-const GOOGLE_MAPS_API_KEY = 'AIzaSyBv7LuSFWfINGD4rm4uKX5QnteSnqCEeRw';
+const GOOGLE_MAPS_API_KEY = '######';
 
 const cityLocations = [
   { latitude: 44.4268, longitude: 26.1025, name: 'Bucuresti' },
