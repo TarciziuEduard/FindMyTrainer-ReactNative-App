@@ -3,7 +3,7 @@ import { View, Text, Image, StyleSheet, FlatList, TouchableOpacity, TextInput, A
 import firestore from '@react-native-firebase/firestore';
 import Icon from 'react-native-vector-icons/MaterialIcons';
 
-const GOOGLE_MAPS_API_KEY = 'AIzaSyBv7LuSFWfINGD4rm4uKX5QnteSnqCEeRw';
+const GOOGLE_MAPS_API_KEY = '############';
 
 const GymListScreen = ({route, navigation }) => {
   const [allGyms, setAllGyms] = useState([]);
