@@ -47,7 +47,7 @@ const AddTrainerInfoScreen = ({ navigation, route }) => {
   const [errors, setErrors] = useState({});
   const mapRef = useRef(null);
   const [searchQuery, setSearchQuery] = useState('');
-  const GOOGLE_MAPS_API_KEY = 'AIzaSyBv7LuSFWfINGD4rm4uKX5QnteSnqCEeRw';
+  const GOOGLE_MAPS_API_KEY = '#############';
   const [isLoading, setIsLoading] = useState(false);
 
   const nameRef = useRef(null);
