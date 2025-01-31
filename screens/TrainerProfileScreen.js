@@ -8,7 +8,7 @@ import LinearGradient from 'react-native-linear-gradient';
 import { Linking } from 'react-native';
 import Icon from 'react-native-vector-icons/MaterialCommunityIcons';
 import TikTokIcon from '../imagini/trainer_img/tiktok.png';
-const GOOGLE_MAPS_API_KEY = 'AIzaSyBv7LuSFWfINGD4rm4uKX5QnteSnqCEeRw';
+const GOOGLE_MAPS_API_KEY = '##########';
 
 const TrainerProfileScreen = ({ route, navigation }) => {
   const { trainerId } = route.params;
