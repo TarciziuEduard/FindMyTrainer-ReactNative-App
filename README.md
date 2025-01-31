@@ -16,6 +16,12 @@ FindMyTrainer este o aplicație dedicată conectării eficiente între antrenori
 | ![AddTrainer2](https://github.com/user-attachments/assets/d2e6417e-96a0-43db-8ed9-7d12cf54ae6f) | ![AddTrainer3](https://github.com/user-attachments/assets/bcca7110-93ba-4d96-849f-9f5396314033) |![AddTrainer4](https://github.com/user-attachments/assets/57adb57c-93b2-4ed7-ab41-c01a76365d2a)|
 |----------------------------|----------------------------|----------------------------|
 | ![AddTrainer5](https://github.com/user-attachments/assets/8ee1b53b-061f-4731-a251-09ba0fd9fbf3) | ![AddTrainer6](https://github.com/user-attachments/assets/f6e5e49b-ad06-40f5-9cc2-fd0594aa703a) |![ConfirmSchedule](https://github.com/user-attachments/assets/10d94202-c019-4b31-95a7-e20e1802ce5b)|
+|----------------------------|----------------------------|----------------------------|
+|![ManageSchedule](https://github.com/user-attachments/assets/bfc08681-b9a4-4ebb-b011-9930b7cbf9ff) | ![ManageSchedule2](https://github.com/user-attachments/assets/c9b2a0c6-258f-4850-a488-ca39b15af242) |![Schedule](https://github.com/user-attachments/assets/833d95dc-127a-400b-91d5-27f362a95301)
+|
+
+
+
 
 
 
