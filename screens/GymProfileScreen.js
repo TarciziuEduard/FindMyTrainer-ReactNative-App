@@ -8,7 +8,7 @@ import LinearGradient from 'react-native-linear-gradient';
 import { Linking } from 'react-native';
 import Icon from 'react-native-vector-icons/MaterialCommunityIcons';
 
-const GOOGLE_MAPS_API_KEY = 'AIzaSyBv7LuSFWfINGD4rm4uKX5QnteSnqCEeRw';
+const GOOGLE_MAPS_API_KEY = '#########';
 
 const GymProfileScreen = ({ route, navigation }) => {
   const { gymId } = route.params;
