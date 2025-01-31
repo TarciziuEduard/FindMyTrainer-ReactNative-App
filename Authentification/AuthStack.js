@@ -38,7 +38,7 @@ const AuthStack = () => {
     checkFirstLaunch();
 
     GoogleSignin.configure({
-      webClientId: '99314215918-d2j5n18jjf8n0on90t25324f4defltq9.apps.googleusercontent.com',
+      webClientId: '#############.apps.googleusercontent.com',
     });
   }, []);
 
