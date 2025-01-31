@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "99314215918",
+    "project_id": "findmytrainer-553d1",
+    "storage_bucket": "findmytrainer-553d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99314215918:android:9afefc4a761fc3ddb7bcff",
+        "android_client_info": {
+          "package_name": "com.findmytrainer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "99314215918-sm1q1g0ic55cfk24nn67ko7g924jajdi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.findmytrainer",
+            "certificate_hash": "ea27814e102fe9a53291268a99499fd4134b576c"
+          }
+        },
+        {
+          "client_id": "99314215918-d2j5n18jjf8n0on90t25324f4defltq9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAkFXtjK6rmmhywla6x_O6zPYvN9mwIFM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "99314215918-d2j5n18jjf8n0on90t25324f4defltq9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
