@@ -1,5 +1,6 @@
 # FindMyTrainer-Android-App
 FindMyTrainer este o aplicație dedicată conectării eficiente între antrenori și iubitorii de sport. Platforma facilitează promovarea antrenorilor prin profiluri detaliate, specificarea competențelor și publicarea transparentă a acestora.Utilizatorii pot găsi și programa sesiuni de antrenament cu antrenori potriviți.
+
 ![First](https://github.com/user-attachments/assets/d800c950-3872-44be-9874-b2977276db53)
 ![Login](https://github.com/user-attachments/assets/d1bce86a-6207-437b-aeb1-05cd00e1ca2e)
 ![Register](https://github.com/user-attachments/assets/73c19c59-064a-4fcb-b73d-c7556a337ac3)
